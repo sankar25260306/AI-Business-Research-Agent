@@ -1,0 +1,16 @@
+aiohttp
+beautifulsoup4
+chromadb
+ddgs
+duckduckgo-search
+fastapi
+langchain-core
+langchain-groq
+langgraph
+psycopg2-binary
+pydantic
+python-dotenv
+rapidfuzz
+requests
+sentence-transformers
+uvicorn[standard]

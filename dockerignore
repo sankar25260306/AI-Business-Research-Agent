@@ -1,0 +1,11 @@
+.git
+.env
+core/.env
+__pycache__/
+*/__pycache__/
+*.pyc
+*.pyo
+*.db
+venv/
+.venv/
+research_agent.db
